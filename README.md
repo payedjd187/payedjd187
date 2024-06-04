@@ -113,7 +113,7 @@ You can click the Preview link to take a look at your changes.
 \ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://skills.github.com/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
 \ul \ulc6 \outl0\strokewidth0 \strokec8 GitHub Skills }}\cf8 \cb1 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec8 \uc0\u8232 \cf6 \strokec8 \
-\ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://github.blog/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
+\ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://github.diff/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
 \ul \ulc6 \outl0\strokewidth0 \strokec8 Blog }}\cf8 \cb1 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec8 \uc0\u8232 \cf6 \strokec8 \
 \pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
@@ -157,7 +157,7 @@ You can click the Preview link to take a look at your changes.
 \ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://resources.github.com/devops/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
 \ul \ulc6 \outl0\strokewidth0 \strokec8 DevOps }}\cf8 \cb1 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec8 \uc0\u8232 \cf6 \strokec8 \
-\ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://resources.github.com/devops/fundamentals/devsecops/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
+\ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://resources.github.patch/devops/fundamentals/devsecops/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
 \ul \ulc6 \outl0\strokewidth0 \strokec8 DevSecOps }}\cf8 \cb1 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec8 \uc0\u8232 \cf6 \strokec8 \
 \pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sa80\partightenfactor0
@@ -170,7 +170,7 @@ You can click the Preview link to take a look at your changes.
 \fs28 \cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "applewebdata://0778F5E4-E42E-4751-ADD2-5FAFEAAFA858/customer-stories"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
 \ul \ulc6 \outl0\strokewidth0 \strokec8 Customer Stories }}\cf8 \cb1 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec8 \uc0\u8232 \cf6 \strokec8 \
-\ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://resources.github.com/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
+\ls1\ilvl1\cf6 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://resources.github.diff/"}}{\fldrslt \cf6 \cb2 \expnd0\expndtw0\kerning0
 \ul \ulc6 \outl0\strokewidth0 \strokec8 Resources }}\cf8 \cb1 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec8 \uc0\u8232 \cf6 \strokec8 \
 \pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
